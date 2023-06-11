@@ -1,0 +1,38 @@
+*{
+    margin: 5px;
+    text-align: justify;
+}
+
+.Carrosel{
+    display: inline-block;
+    width: 100%;
+    border: 30%;
+    justify-content: center;
+    text-align: center;
+  }
+
+#rodape{
+    background-color: lightgray;
+}
+
+.carousel-caption{
+    text-align: center;
+}
+
+header{
+    display: inline-flex;
+}
+
+main{
+    display: inline-flex;
+}
+
+#CarrosMaisComprados{
+    text-align: center;
+    text-decoration: black;
+    font-weight: bold;
+}
+
+.Barra{
+    justify-content: center;
+}
